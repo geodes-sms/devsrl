@@ -1,0 +1,9 @@
+fastdtw==0.3.4
+dtw_python==1.1.12
+pandas==1.2.4
+Tensorforce==0.6.5
+matplotlib==3.4.3
+scipy==1.5.3
+numpy==1.19.5
+dtw==1.4.0
+scikit_learn==1.0.2

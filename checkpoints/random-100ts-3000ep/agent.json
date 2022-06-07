@@ -1,0 +1,1 @@
+{"agent": "random", "states": {"type": "float", "shape": [3], "min_value": 0, "max_value": 120}, "actions": {"type": "int", "shape": [3], "num_values": 5}, "max_episode_timesteps": 100, "config": null, "recorder": null, "internals": {}, "initial_internals": {}}
