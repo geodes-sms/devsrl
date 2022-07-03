@@ -1,3 +1,5 @@
+Source code and replication package for the paper *I. David, and E. Syriani. “DEVS Model Construction as a Reinforcement Learning Problem“. In: 2022 Annual Modeling and Simulation Conference (ANNSIM). IEEE. 2022*.
+
 ## Requirements
 * Install PythonPDEVS as desrcibed on its [official page](https://msdl.uantwerpen.be/documentation/PythonPDEVS/installation.html).
 * Install required Python libraries: ```pip install -r requirements.txt```.
